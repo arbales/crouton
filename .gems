@@ -1,1 +1,4 @@
-sinatra
+sinatra       
+dm-core
+dm-more
+sinatra_warden
